@@ -1,6 +1,7 @@
 ### Hey! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pablosjv.pablosjv) 
+[![AWS Certification](https://img.shields.io/badge/Certified%20Developer-Associate-yellow?logo=amazon-aws)](https://www.youracclaim.com/badges/deaceaa1-7a27-45f4-9ecc-c8d8094e9a74/public_url)
 
 I am a Software engineer with 4 years of professional experience. I am passionate about Software Development, Big Data platforms, DevOps philosophy, and Serverless architectures.
 
@@ -8,7 +9,6 @@ Now studying the Master of Science in Analytics at Georgia Tech, and working wit
 
 
 ![Pablo Github Stats](https://github-readme-stats.vercel.app/api?username=pablosjv&count_private=true&show_icons=true&theme=onedark) 
-[![AWS Certification](https://images.youracclaim.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png)](https://www.youracclaim.com/badges/deaceaa1-7a27-45f4-9ecc-c8d8094e9a74/public_url)
 
 
 #### My Tech Stack
