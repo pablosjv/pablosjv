@@ -7,7 +7,8 @@ I am a Software engineer with 4 years of professional experience. I am passionat
 Now studying the Master of Science in Analytics at Georgia Tech, and working with [Clarity.ai](https://clarity.ai/) as a Data Engineer.
 
 
-![Pablo Github Stats](https://github-readme-stats.vercel.app/api?username=pablosjv&count_private=true&show_icons=true) [![AWS Certification](https://images.youracclaim.com/size/150x150/images/2a15d440-edbe-44a2-890f-0a0caf7e1442/AWS-Developer-Associate.png)](https://www.youracclaim.com/badges/deaceaa1-7a27-45f4-9ecc-c8d8094e9a74/public_url)
+![Pablo Github Stats](https://github-readme-stats.vercel.app/api?username=pablosjv&count_private=true&show_icons=true&theme=onedark) 
+[![AWS Certification](https://images.youracclaim.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png)](https://www.youracclaim.com/badges/deaceaa1-7a27-45f4-9ecc-c8d8094e9a74/public_url)
 
 
 #### My Tech Stack
