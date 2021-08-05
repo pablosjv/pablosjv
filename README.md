@@ -5,7 +5,7 @@
 
 I am a Software engineer with 4 years of professional experience. I am passionate about Software Development, Big Data platforms, DevOps philosophy, and Serverless architectures.
 
-Now studying the Master of Science in Analytics at Georgia Tech, and working with [Clarity AI](https://clarity.ai/) as Data Engineer.
+Now studying the Master of Science in Analytics at Georgia Tech, and working with [Clarity AI](https://clarity.ai/) as Machine Learning Engineer.
 
 
 ![Pablo Github Stats](https://github-readme-stats.vercel.app/api?username=pablosjv&count_private=true&show_icons=true&theme=onedark) 
