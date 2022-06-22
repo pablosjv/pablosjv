@@ -8,9 +8,6 @@ I am a Software engineer with 5 years of professional experience. I am passionat
 Now working with [Clarity AI](https://clarity.ai/) as Machine Learning Engineer.
 
 
-![Pablo Github Stats](https://github-readme-stats.vercel.app/api?username=pablosjv&count_private=true&show_icons=true&theme=onedark) 
-
-
 #### Find me here 📫
 
 - [Personal Website](https://pablosanjose.com)
